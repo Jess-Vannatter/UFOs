@@ -6,11 +6,11 @@
 ##
 
 ## Results
-  - By utilizing Java script and HTML code we were able to create an interactive table that allows it's users to input search criteria such as a UFO sighting's Location by state, City, Country, and the Shape of the sighting. We created an input box, located on the left hand side of the web app. Before inputting any search criteria, the full data set is shown in tabular form next to the search box (pic of no serch criteria).
+  - By utilizing Java script and HTML code we were able to create an interactive table that allows it's users to input search criteria such as a UFO sighting's Location by state, City, Country, and the Shape of the sighting. We created an input box, located on the left hand side of the web app. Before inputting any search criteria, the full data set is shown in tabular form next to the search box.![Uploading image.png…](https://github.com/Jess-Vannatter/UFOs/blob/main/App_Images/no_search.png?raw=true)
   
-  - By in putting your preferred search criteria, for example we could search for all UFO sigtings that occured in Florida (fl) during this time frame. Which would return a table listing out all UFO sigtings in Florida (pic of table and results).
+  - By in putting your preferred search criteria, for example we could search for all UFO sigtings that occured in Florida (fl) during this time frame. Which would return a table listing out all UFO sigtings in Florida.![Uploading image.png…](https://github.com/Jess-Vannatter/UFOs/blob/main/App_Images/fl_search.png?raw=true)
   
-  - In addition, we created an even more accurate and interactive experience for the user by allowing them to search by multiple criteria. The user could add an additional search criteria (on top of just searching for UFO sightings in Florida). For example they could search for UFO sightings in a specific City located in Florida, like Jasper (pic of table and results).
+  - In addition, we created an even more accurate and interactive experience for the user by allowing them to search by multiple criteria. The user could add an additional search criteria (on top of just searching for UFO sightings in Florida). For example they could search for UFO sightings in a specific City located in Florida, like Jasper.![Uploading image.png…](https://github.com/Jess-Vannatter/UFOs/blob/main/App_Images/fl_jasper_search.png?raw=true)
 ##
 
 ## Summary
